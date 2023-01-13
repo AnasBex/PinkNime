@@ -1,2 +1,4 @@
-# PinkNime
-PinkNime Website 
+# PinkNime Website
+*Home
+*Page
+*Search
